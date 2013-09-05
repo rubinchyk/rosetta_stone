@@ -1,4 +1,7 @@
-rosetta_stone
+Rosetta Stone - English (American)
+Levels 1-5
 =============
 
-Files with results
+Files with my results
+
+Original file must be upload to - ... \ProgramData\Rosetta Stone\tracking.db3 
